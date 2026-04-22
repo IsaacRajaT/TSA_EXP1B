@@ -5,6 +5,10 @@
 
 ### AIM:
 To perform regular differncing,seasonal adjustment and log transformatio on international airline passenger data
+
+### TOOLS REQUIRED:
+1. Google Colab
+2. Dataset name: Truck_Sales.csv
 ### ALGORITHM:
 1. Import the required packages like pandas and numpy
 2. Read the data using the pandas
